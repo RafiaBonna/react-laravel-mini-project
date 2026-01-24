@@ -20,7 +20,7 @@ return new class extends Migration
     }
 
     /**
-     * Reverse the migrations12.
+     * Reverse the migrations123.
      */
     public function down(): void
     {
