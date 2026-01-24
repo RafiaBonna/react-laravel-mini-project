@@ -12,7 +12,7 @@ class ProductController extends Controller
      */
     public function index()
     {
-        //
+      return product :: all();
     }
 
     /**
@@ -28,7 +28,11 @@ class ProductController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $product=product::create([
+            'name'=>$request->name,
+            'price' =>$request->price
+        ]);
+        return response()->json(['Product Created Successfully!','data'=>$product]);
     }
 
     /**
