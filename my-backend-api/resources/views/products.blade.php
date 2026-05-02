@@ -22,7 +22,7 @@
             </tr>
         </thead>
         <tbody>
-            <!-- Database theke data eikhane ashbe -->
+
             <tr>
                 <td>1</td>
                 <td>Sample Product</td>
