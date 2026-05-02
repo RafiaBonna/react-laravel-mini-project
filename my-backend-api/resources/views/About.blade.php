@@ -6,7 +6,7 @@
     <style>
         body { font-family: sans-serif; text-align: center; padding: 50px; background: #f4f4f4; }
         .card { background: white; padding: 20px; border-radius: 10px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); }
-        h1 { color: #ff2d20; } /* Laravel R*/
+        h1 { color: #ff2d20; }
     </style>
 </head>
 <body>
