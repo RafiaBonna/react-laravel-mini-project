@@ -13,7 +13,7 @@
     <div class="card">
         <h1>About This Project</h1>
         <p>This is a <strong>Laravel + React</strong> CRUD Application.</p>
-        <p>Current Step:Building the UI & API.</p>
+        <p>Current Step:Building the UI & API</p>
         <a href="/">Go Back Home</a>
     </div>
 </body>
