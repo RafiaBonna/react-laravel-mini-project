@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>Product Inventory</h1>
-    <p>Eikhane amader database-er shob product .</p>
+    <p>Eikhane amader database-er shob  .</p>
 
     <table>
         <thead>
